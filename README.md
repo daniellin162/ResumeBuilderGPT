@@ -41,15 +41,4 @@ cd ../backend
 npm install
 Set up the environment variables for the AI content generation API and other configurations in the .env files for both frontend and backend.
 
-Start the frontend:
-
-bash
-Copy code
-cd ../frontend
-npm start
-Start the backend:
-bash
-Copy code
-cd ../backend
-npm start
-The application should now be accessible at http://localhost:3000.
+The application should be accessible at http://localhost:3000.
