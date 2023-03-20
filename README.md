@@ -11,3 +11,5 @@ Features
 Responsive web application for creating resumes
 AI-driven content suggestions for various resume sections
 Ability to save and export resumes in PDF format
+
+#API Key is invalid!
